@@ -1,0 +1,12 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+sqlalchemy[asyncio]==2.0.36
+asyncpg==0.30.0
+pydantic-settings==2.7.1
+httpx==0.28.1
+ccxt==4.4.57
+web3==7.6.0
+openai==1.59.7
+python-telegram-bot==21.10
+python-dotenv==1.0.1
+cryptography==46.0.3
